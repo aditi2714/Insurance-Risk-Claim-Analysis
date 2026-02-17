@@ -61,5 +61,5 @@ Dashboard Design
 
 **🖼 Dashboard Preview:**
 
-Insurance_claim_analysis_Dashboard.png
+![Dashboard Preview](Insurance_claim_analysis_Dashboard.png)
 
